@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gosise/Monsters-rolodex.git/static/css/main.e801786c.css",
-    "main.js": "/Gosise/Monsters-rolodex.git/static/js/main.e63f22fd.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/Gosise/Monsters-rolodex.git/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/Gosise/Monsters-rolodex.git/index.html",
-    "main.e801786c.css.map": "/Gosise/Monsters-rolodex.git/static/css/main.e801786c.css.map",
-    "main.e63f22fd.js.map": "/Gosise/Monsters-rolodex.git/static/js/main.e63f22fd.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/Gosise/Monsters-rolodex.git/static/js/787.e4e9b7ff.chunk.js.map"
+    "main.css": "/gosise/Monsters-rolodex.git/static/css/main.e801786c.css",
+    "main.js": "/gosise/Monsters-rolodex.git/static/js/main.e7e461e6.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/gosise/Monsters-rolodex.git/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/gosise/Monsters-rolodex.git/index.html",
+    "main.e801786c.css.map": "/gosise/Monsters-rolodex.git/static/css/main.e801786c.css.map",
+    "main.e7e461e6.js.map": "/gosise/Monsters-rolodex.git/static/js/main.e7e461e6.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/gosise/Monsters-rolodex.git/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e801786c.css",
-    "static/js/main.e63f22fd.js"
+    "static/js/main.e7e461e6.js"
   ]
 }
